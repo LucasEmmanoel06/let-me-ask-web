@@ -1,7 +1,7 @@
-# NLW Agents Web
+# Let me Ask
 
 Projeto desenvolvido durante o evento **NLW Agents** da **Rocketseat**
-Confira também o [Servidor](https://github.com/LucasEmmanoel06/nlw-agents-server) do NLW Agents
+Confira também o [Servidor](https://github.com/LucasEmmanoel06/nlw-agents-server) do Let me Ask
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -43,7 +43,7 @@ src/
 1. Clone o repositório:
 ```bash
 git clone https://github.com/LucasEmmanoel06/nlw-agents-web.git
-cd web
+cd let-me-ask
 ```
 
 2. Instale as dependências:
